@@ -1,3 +1,4 @@
+<%@ page import="MyClass" %>
 <html>
 <head>
 <title>Hello World!</title>
@@ -10,4 +11,8 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+	<%
+  		MyClass tc = new MyClass();
+  		<h1>out.print(tc.testMethod());</h1>
+	%>
 </body>
