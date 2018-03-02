@@ -6,6 +6,6 @@ public class MyClass {
 		
 	}
 	public testMethod() {
-		System.out.println("Welcome to the demo");
+		System.out.println("Welcome to the demo1");
 	}
 }
