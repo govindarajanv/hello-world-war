@@ -7,6 +7,6 @@ public class MyClass {
 	}
 	public String testMethod() {
 		System.out.println("Welcome to the CICD-PIPELINE");
-		return "Welcome to my demo";
+		return "Welcome to my demonstration";
 	}
 }
