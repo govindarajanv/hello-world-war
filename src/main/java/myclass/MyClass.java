@@ -6,6 +6,6 @@ public class MyClass {
 		
 	}
 	public String testMethod() {
-		return "Welcome to my demonstration";
+		return "Welcome to Govind's demonstration";
 	}
 }
